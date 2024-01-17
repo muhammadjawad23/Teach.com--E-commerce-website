@@ -76,7 +76,7 @@ html {
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url(image1.jpg);
+    background-image: url(Images/image1.jpg);
     background-size: cover;
     background-position: center;
     opacity: 1;
@@ -410,7 +410,7 @@ html {
     display: flex;
     gap: 1.5rem;
     align-items: center;
-    background-image: url(photo9.webp);
+    background-image: url(Images/photo9.webp);
     background-size: cover;
     background-position: center;
 }
